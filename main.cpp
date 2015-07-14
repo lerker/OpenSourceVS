@@ -1,3 +1,22 @@
+/**
+					Video Resumen Open Source
+							2015
+
+
+Authors:
+		Ponzoni Nelson, npcuadra <at> gmail.com
+		Olivera Jose, joseolivera123 <at> gmail.com
+		Oliva Eduardo, edumoliva <at> gmail.com
+
+Facultad de Ingenieria y Ciencias Hidricas
+Universidad Nacional del Litoral
+
+
+Procesamiento Digital de Imagenes, 2015
+
+please replace <at> for arroba
+**/
+
 #include "opencv2/opencv.hpp"
 #include <stdlib.h>
 #include <stdio.h>
