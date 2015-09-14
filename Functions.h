@@ -495,10 +495,10 @@ void mostrar(const vector <pair <vector<vector <int> > , vector<Mat> > > &Object
 				vector< vector <int> > aux2 = window[i].first;
 				vector<int> aux = aux2[0];
 				string etiqueta = to_string(aux[2]/FPS); // en el tercer lugar guarda los frames, y en la primera y segunda la posicio del centro
-				double escala = 0.3f;
-				double grosor = 1.5f;
+				double escala = 0.5f;
+				double grosor = 1.9f;
 #if EVENTOS_SEGUNDOS
-				putText(frame,etiqueta, cvPoint(aux[0],aux[1]), FONT_HERSHEY_SCRIPT_SIMPLEX,	escala,	cvScalar(0,0,255), grosor);
+				putText(frame,etiqueta, cvPoint(aux[0],aux[1]), FONT_HERSHEY_SCRIPT_SIMPLEX,	escala,	cvScalar(255,255,255), grosor);
 #endif
 				window[i].first.erase(window[i].first.begin());
 				window[i].second.erase(window[i].second.begin());
