@@ -494,7 +494,7 @@ void mostrar(const vector <pair <vector<vector <int> > , vector<Mat> > > &Object
 				
 				vector< vector <int> > aux2 = window[i].first;
 				vector<int> aux = aux2[0];
-				string etiqueta = to_string(aux[2]/FPS); // en el tercer lugar guarda los frames, y en la primera y segunda la posicio del centro
+				string etiqueta = to_string(aux[2]/FPS / 60) + ":" +  to_string(aux[2]/FPS); // en el tercer lugar guarda los frames, y en la primera y segunda la posicio del centro
 				double escala = 0.5f;
 				double grosor = 1.9f;
 #if EVENTOS_SEGUNDOS
