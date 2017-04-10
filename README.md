@@ -22,31 +22,31 @@ Main Features
 See in action
 -------------
 
-### Original video from a Hihgway (~1 minute long).
+#### Original video from a Hihgway (~1 minute long).
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zlaF0tBaOdM
 " target="_blank"><img src="http://img.youtube.com/vi/zlaF0tBaOdM/0.jpg" 
 alt="Original" width="240" height="180" border="10" /></a>
 
-### Video synopsis (~1/3 minute long from original)
+#### Video synopsis (~1/3 minute long from original)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ljl-CqRivlA
 " target="_blank"><img src="http://img.youtube.com/vi/Ljl-CqRivlA/0.jpg" 
 alt="Resumen" width="240" height="180" border="10" /></a>
 
-### Timestamp objects (seconds)
+#### Timestamp objects (seconds)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8vWycieuw8A
 " target="_blank"><img src="http://img.youtube.com/vi/8vWycieuw8A/0.jpg" 
 alt="Etiquetado" width="240" height="180" border="10" /></a>
 
-### Only red objects? 
+#### Only red objects? 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1uWT4XMtCWY
 " target="_blank"><img src="http://img.youtube.com/vi/1uWT4XMtCWY/0.jpg" 
 alt="Segmentacion" width="240" height="180" border="10" /></a>
 
-Requirements
+<span style="color:blue">Requirements</span>
 ------------
 
 The core of the library is written in C++ and uses Opencv.
