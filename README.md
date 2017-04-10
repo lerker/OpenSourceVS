@@ -26,8 +26,8 @@ The core of the library is written in C++ and uses Opencv.
 
 
 | 		        | Version       | Test  |
-| :------------ |:-------------:| ----: |
-| OpenCV	    | 2.4.13		| -[x] Ubuntu 14/16 -[X] Archlinux |
+| :------------ |:-------------:| :----: |
+| OpenCV	    | 2.4.13		| :ballot_box_with_check: Ubuntu 14 & 16 - :ballot_box_with_check: Archlinux |
 
 
 How to use
@@ -35,19 +35,18 @@ How to use
 
 Just for now, the library it's very hard coded!! kept in mind that this originally was a weekend project in academic ambit.
 
-Download
-
+**Download**
 ```bash
 $ git clone https://github.com/lerker/OpenSourceVS.git
 ```
 
-Compile
+**Compile**
 ```bash
 $ cd OpenSourceVS/
 $ g++ -std=c++11 -o OpenSourceVS main.cpp `pkg-config --cflags --libs opencv`
 ```
 
-Run 
+**Run**
 ```bash
 ./OpenSourceVS video2.avi
 ```
@@ -68,7 +67,16 @@ Steps
 4. In container promt, `./opensourcevs`
 
 
+TODOs
+-----
+
+Please see TODO list.
+
 Contact
 -------
 Main manteiner: npcuadra@gmail.com (Ponzoni Nelson) as github user @lerker
+
+
+
+
 
