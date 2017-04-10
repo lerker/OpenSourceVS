@@ -8,7 +8,7 @@ Brief description from wikipedia:
 
 In recent years, the use of video storage systems have increase radically. Generally, this records are used for surveillance tasks and allow monitoring activity in particular areas, track certain situations or analyse information from incidents. These systems store large amounts of data and the greatest part of the records have irrelevant information, generating an unnecessary demand of time and money for its storage and analysis. In this work, the development of an open source library to perform video synopsis is presented. The term `video synopsis' refers to the generation of an automatic summary of a video based on digital image processing techniques. With this tool, it is possible to carry out the background substraction, the detection and segmentation of moving objects in a scene, to later on generate the summary of the video. It presents the moving objects with metadata (order and time of appearance) and can present the activity registered in linear time or merged on a common background. Thereby, the library allows the generation of video synopsis of the activity detected, serving as a support of traditional storage systems and facilitating the visual inspection of long videos.
 
-For more information, please see [this paper](http://ieeexplore.ieee.org/document/7497179/)
+For more information, please see [this paper](http://ieeexplore.ieee.org/document/7497179/) or [this](OpenSourceVS/docs/videoSinopsis_RPIC.pdf).
 
 The private software that can do this task is [BriefCam](http://briefcam.com/). Own library don't have any affiliation with breifcam, and we attend to solve the problem with our way.
 
@@ -27,7 +27,7 @@ The core of the library is written in C++ and uses Opencv.
 
 | 		        | Version       | Test  |
 | :------------ |:-------------:| :----: |
-| OpenCV	    | 2.4.13		| :ballot_box_with_check: Ubuntu 14 & 16 - :ballot_box_with_check: Archlinux |
+| OpenCV	    | 2.4.13		| :ballot_box_with_check: Ubuntu 14 & 16  :ballot_box_with_check: Archlinux |
 
 
 How to use
