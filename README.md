@@ -1,9 +1,7 @@
 VideoResumenOpenSource
 ======================
 
-This library 
-
-From wikipedia:
+Brief description from wikipedia:
 
 > Video synopsis (often abbreviated V.S.) is an approach to create a short video summary of a long video. It tracks and analyzes moving objects, and converts video streams into a database of objects and activities. The technology has specific applications in the field of video surveillance where, despite technological advancements and increased growth in the deployment of CCTV (closed circuit television) cameras, viewing and analysis of recorded footage is still a costly and labor-intensive and time-intensive task.
 
@@ -54,7 +52,7 @@ Run
 ./OpenSourceVS video2.avi
 ```
 
-In this example, *video2.avi* is the input video, the arguments is not accepted by the program (hard coded...) and the video file *MUST* be _video2.avi_
+In this example, *video2.avi* is the input video, the arguments is not accepted by the program (hard coded...) and the video file **MUST** be _video2.avi_
 
 
 You need assitance?
@@ -72,5 +70,5 @@ Steps
 
 Contact
 -------
-Main manteiner: npcuadra@gmail.com (Ponzoni Nelson)
+Main manteiner: npcuadra@gmail.com (Ponzoni Nelson) as github user @lerker
 
