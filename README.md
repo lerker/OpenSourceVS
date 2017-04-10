@@ -46,7 +46,7 @@ alt="Etiquetado" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/1uWT4XMtCWY/0.jpg" 
 alt="Segmentacion" width="240" height="180" border="10" /></a>
 
-<span style="color:blue">Requirements</span>
+<font color='red'>Requirements</font>
 ------------
 
 The core of the library is written in C++ and uses Opencv.
