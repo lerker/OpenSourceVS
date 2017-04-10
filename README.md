@@ -36,8 +36,8 @@ alt="Resumen" width="240" height="180" border="10" /></a>
 
 ### Timestamp objects (seconds)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8vWycieuw
-" target="_blank"><img src="http://img.youtube.com/vi/8vWycieuw/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8vWycieuw8A
+" target="_blank"><img src="http://img.youtube.com/vi/8vWycieuw8A/0.jpg" 
 alt="Etiquetado" width="240" height="180" border="10" /></a>
 
 ### Only red objects? 
